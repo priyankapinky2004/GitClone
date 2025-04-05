@@ -48,7 +48,7 @@ The frontend is built with a focus on simplicity, responsiveness, and real-time 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/GitClone.git
+git clone https://github.com/priyankapinky2004/GitClone.git
 cd GitClone/frontend
 npm install
 npm start
